@@ -1,0 +1,8 @@
+.btn{
+  width: 100px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.btn:hover{
+  background-color: silver;
+}
